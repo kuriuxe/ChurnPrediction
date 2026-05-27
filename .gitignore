@@ -3,4 +3,4 @@
 .notebook_deps/
 .matplotlib_cache/
 __pycache__/
-
+.virtual_documents
