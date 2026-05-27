@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+.notebook_deps/
+.matplotlib_cache/
+__pycache__/
+
